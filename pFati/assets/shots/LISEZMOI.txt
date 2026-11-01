@@ -1,0 +1,1 @@
+Dépose ici txt2sql.png, ocp-pfe.png, lakehouse.png : elles remplaceront automatiquement les schémas.
